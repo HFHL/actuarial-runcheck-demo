@@ -18,4 +18,4 @@ function attach(server) {
   });
 }
 
-export default defineConfig({ plugins:[{ name:'actuarial-mock', configureServer:attach, configurePreviewServer:attach }] });
+export default defineConfig({ base:'/actuarial-runcheck-demo/', plugins:[{ name:'actuarial-mock', configureServer:attach, configurePreviewServer:attach }] });
