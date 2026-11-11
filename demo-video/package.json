@@ -1,0 +1,22 @@
+{
+  "name": "demo-video",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "studio": "remotion studio index.tsx",
+    "render": "remotion render index.tsx ActuarialWalkthrough out/actuarial-review-walkthrough.mp4 --codec=h264 --crf=19"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@remotion/captions": "4.0.542",
+    "@remotion/cli": "4.0.542",
+    "@remotion/media": "4.0.542",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.542"
+  },
+  "private": true
+}

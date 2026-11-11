@@ -1,0 +1,568 @@
+{
+  "fps": 24,
+  "frames": 3643,
+  "scenes": [
+    {
+      "name": "01-worklist",
+      "r": [
+        732.22265625,
+        100.3984375,
+        823,
+        768
+      ],
+      "chapter": "创建估值",
+      "title": "从估值清单开始",
+      "from": 0,
+      "frames": 115
+    },
+    {
+      "name": "02-create",
+      "r": [
+        585.2421875,
+        548.25,
+        823,
+        768
+      ],
+      "chapter": "创建估值",
+      "title": "录入估值批次",
+      "from": 115,
+      "frames": 128
+    },
+    {
+      "name": "03-draft",
+      "r": [
+        287.390625,
+        220.546875,
+        823,
+        768
+      ],
+      "chapter": "创建估值",
+      "title": "进入草稿",
+      "from": 243,
+      "frames": 135
+    },
+    {
+      "name": "04-input-start",
+      "r": [
+        745.6640625,
+        530.796875,
+        823,
+        768
+      ],
+      "chapter": "输入检查",
+      "title": "运行输入检查",
+      "from": 378,
+      "frames": 128
+    },
+    {
+      "name": "05-input-fail",
+      "r": [
+        808.52734375,
+        362.796875,
+        823,
+        768
+      ],
+      "chapter": "输入检查",
+      "title": "定位假设版本差异",
+      "from": 506,
+      "frames": 166
+    },
+    {
+      "name": "06-input-replace",
+      "r": [
+        576.5078125,
+        458,
+        823,
+        768
+      ],
+      "chapter": "输入检查",
+      "title": "关联 v8 假设文件",
+      "from": 672,
+      "frames": 116
+    },
+    {
+      "name": "07-input-pass",
+      "r": [
+        354.69921875,
+        216.546875,
+        823,
+        768
+      ],
+      "chapter": "输入检查",
+      "title": "确认输入检查通过",
+      "from": 788,
+      "frames": 138
+    },
+    {
+      "name": "08-output-start",
+      "r": [
+        741.44921875,
+        726.796875,
+        823,
+        768
+      ],
+      "chapter": "输出检查",
+      "title": "运行输出检查",
+      "from": 926,
+      "frames": 123
+    },
+    {
+      "name": "09-output-fail",
+      "r": [
+        282.5859375,
+        700.390625,
+        823,
+        768
+      ],
+      "chapter": "差异调查",
+      "title": "打开失败项",
+      "from": 1049,
+      "frames": 175
+    },
+    {
+      "name": "10-evidence",
+      "r": [
+        526.54296875,
+        487.1953125,
+        823,
+        768
+      ],
+      "chapter": "差异调查",
+      "title": "核对差异与容差",
+      "from": 1224,
+      "frames": 120
+    },
+    {
+      "name": "11-breakdown",
+      "r": [
+        735.16796875,
+        580.4453125,
+        823,
+        768
+      ],
+      "chapter": "差异调查",
+      "title": "按产品拆解",
+      "from": 1344,
+      "frames": 166
+    },
+    {
+      "name": "12-source",
+      "r": [
+        774.5,
+        240.5,
+        823,
+        768
+      ],
+      "chapter": "差异调查",
+      "title": "查看来源单元格",
+      "from": 1510,
+      "frames": 134
+    },
+    {
+      "name": "13-ai-start",
+      "r": [
+        523.83984375,
+        191,
+        823,
+        768
+      ],
+      "chapter": "差异调查",
+      "title": "启动 AI 调查",
+      "from": 1644,
+      "frames": 98
+    },
+    {
+      "name": "14-ai-result",
+      "r": [
+        513.46484375,
+        413.28515625,
+        823,
+        768
+      ],
+      "chapter": "差异调查",
+      "title": "核对 AI 返回的结果",
+      "from": 1742,
+      "frames": 143
+    },
+    {
+      "name": "15-note",
+      "r": [
+        637,
+        309.796875,
+        823,
+        768
+      ],
+      "chapter": "差异调查",
+      "title": "记录核查过程",
+      "from": 1885,
+      "frames": 116
+    },
+    {
+      "name": "16-variance",
+      "r": [
+        506.72265625,
+        439.296875,
+        823,
+        768
+      ],
+      "chapter": "差异调查",
+      "title": "查看整体差异",
+      "from": 2001,
+      "frames": 137
+    },
+    {
+      "name": "17-output-edit",
+      "r": [
+        732.55078125,
+        593.796875,
+        823,
+        768
+      ],
+      "chapter": "输出修正",
+      "title": "更换准备金输出",
+      "from": 2138,
+      "frames": 143
+    },
+    {
+      "name": "18-output-correct",
+      "r": [
+        576.5078125,
+        458,
+        823,
+        768
+      ],
+      "chapter": "输出修正",
+      "title": "关联修正版文件",
+      "from": 2281,
+      "frames": 116
+    },
+    {
+      "name": "19-output-pass",
+      "r": [
+        600.6796875,
+        561.546875,
+        823,
+        768
+      ],
+      "chapter": "输出修正",
+      "title": "确认差异归零",
+      "from": 2397,
+      "frames": 130
+    },
+    {
+      "name": "20-history",
+      "r": [
+        459.8828125,
+        609.046875,
+        823,
+        768
+      ],
+      "chapter": "输出修正",
+      "title": "回看原始失败",
+      "from": 2527,
+      "frames": 154
+    },
+    {
+      "name": "21-submit",
+      "r": [
+        84.5,
+        690,
+        823,
+        768
+      ],
+      "chapter": "提交审阅",
+      "title": "提交只读版本 v1",
+      "from": 2681,
+      "frames": 114
+    },
+    {
+      "name": "22-review-queue",
+      "r": [
+        296.8046875,
+        355.796875,
+        823,
+        768
+      ],
+      "chapter": "审阅退回",
+      "title": "打开审阅队列",
+      "from": 2795,
+      "frames": 124
+    },
+    {
+      "name": "23-request",
+      "r": [
+        653.3125,
+        582.296875,
+        823,
+        768
+      ],
+      "chapter": "审阅退回",
+      "title": "附注并退回",
+      "from": 2919,
+      "frames": 95
+    },
+    {
+      "name": "24-requested",
+      "r": [
+        84.5,
+        689.796875,
+        823,
+        768
+      ],
+      "chapter": "审阅退回",
+      "title": "查看退回决定",
+      "from": 3014,
+      "frames": 130
+    },
+    {
+      "name": "25-resubmit",
+      "r": [
+        734.20703125,
+        104.8984375,
+        823,
+        768
+      ],
+      "chapter": "重新提交",
+      "title": "从工作稿提交 v2",
+      "from": 3144,
+      "frames": 121
+    },
+    {
+      "name": "26-sign",
+      "r": [
+        756.35546875,
+        689.796875,
+        823,
+        768
+      ],
+      "chapter": "最终签核",
+      "title": "签核 v2",
+      "from": 3265,
+      "frames": 108
+    },
+    {
+      "name": "27-signed",
+      "r": [
+        247.95703125,
+        684.546875,
+        823,
+        768
+      ],
+      "chapter": "最终签核",
+      "title": "查看决定历史",
+      "from": 3373,
+      "frames": 124
+    },
+    {
+      "name": "28-complete",
+      "r": [
+        982.40234375,
+        355.79296875,
+        823,
+        768
+      ],
+      "chapter": "最终签核",
+      "title": "回到审阅清单",
+      "from": 3497,
+      "frames": 146
+    }
+  ],
+  "captions": [
+    {
+      "text": "将角色设为 Preparer，然后点击 New valuation run。",
+      "startMs": 0,
+      "endMs": 4792,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "选择 2026 年 10 月，填写名称与 AXIS 批次号 015。",
+      "startMs": 4792,
+      "endMs": 10125,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "新批次为 Draft，输入和输出检查均为 Not run。",
+      "startMs": 10125,
+      "endMs": 15750,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "在 Inputs 查看关联文件，再点 Run input checks。",
+      "startMs": 15750,
+      "endMs": 21083,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "系统读到 v7，要求 v8。点 Select replacement。",
+      "startMs": 21083,
+      "endMs": 28000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "选择 v8，点 Associate file，再重跑输入检查。",
+      "startMs": 28000,
+      "endMs": 32833,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "假设版本与保单控制总数均为 Passed。转到 Outputs。",
+      "startMs": 32833,
+      "endMs": 38583,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "核对 AXIS 日志和输出文件，点 Run output checks。",
+      "startMs": 38583,
+      "endMs": 43708,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "准备金实际为 106.2，预期为 105.0，单位为百万加元。",
+      "startMs": 43708,
+      "endMs": 51000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "差异 120 万加元，高于 10 万加元容差。",
+      "startMs": 51000,
+      "endMs": 56000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Term Life 相差 90 万，Whole Life 相差 30 万加元。",
+      "startMs": 56000,
+      "endMs": 62917,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "打开 Term Life 的 AXIS 来源，定位到单元格 B3。",
+      "startMs": 62917,
+      "endMs": 68500,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "切换到 AI，点击 Investigate with AI。",
+      "startMs": 68500,
+      "endMs": 72583,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "模拟 AI 给出相同拆分，原因标为 Cause unconfirmed。",
+      "startMs": 72583,
+      "endMs": 78542,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "在 Activity 留下注释，记录工作簿核对结果。",
+      "startMs": 78542,
+      "endMs": 83375,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "在 Variance 展开总准备金，查看两类产品的差异。",
+      "startMs": 83375,
+      "endMs": 89083,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "回到 Outputs，在 Closing reserves 行点 Associate output。",
+      "startMs": 89083,
+      "endMs": 95042,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "选中 Corrected 工作簿，确认后重跑输出检查。",
+      "startMs": 95042,
+      "endMs": 99875,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "实际和预期均为 105.0 百万加元，输出检查通过。",
+      "startMs": 99875,
+      "endMs": 105292,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "在 Attempt history 切到 O-001，查看当时的检查结果。",
+      "startMs": 105292,
+      "endMs": 111708,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "检查通过后点 Submit for review，生成审阅版本。",
+      "startMs": 111708,
+      "endMs": 116458,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "将角色切到 Reviewer，在 My reviews 打开批次 015。",
+      "startMs": 116458,
+      "endMs": 121625,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "填写 Review note，再点击 Request changes。",
+      "startMs": 121625,
+      "endMs": 125583,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "v1 显示 Changes requested，决定与备注保留。",
+      "startMs": 125583,
+      "endMs": 131000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "切回 Preparer，打开 Open working run，再提交。",
+      "startMs": 131000,
+      "endMs": 136042,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "切回 Reviewer，打开新版审阅记录并点击 Sign off。",
+      "startMs": 136042,
+      "endMs": 140542,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "v2 已签核，v1 的退回决定仍可查看。",
+      "startMs": 140542,
+      "endMs": 145708,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "Batch 015 两项检查通过，审阅状态为 Signed off。",
+      "startMs": 145708,
+      "endMs": 151792,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ]
+}
